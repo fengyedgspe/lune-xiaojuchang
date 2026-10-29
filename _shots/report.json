@@ -1,0 +1,131 @@
+{
+  "src": "index.html",
+  "url": "file:///C:/Users/34578/Doubao/chats/2026-10-29/new-chat-1/%E7%B6%BELune%E5%B0%8F%E5%89%A7%E5%9C%BA/index.html",
+  "outdir": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\_shots",
+  "include": [
+    "lint",
+    "screenshots",
+    "structure"
+  ],
+  "shots": {
+    "desktop": {
+      "screenshot": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\_shots\\index_desktop.jpg",
+      "screenshotBytes": 56295,
+      "truncated": false,
+      "structure": {
+        "title": "綾Lune小剧场",
+        "firstH1": "",
+        "viewport": {
+          "w": 1440,
+          "h": 900
+        },
+        "fullpage": {
+          "w": 1440,
+          "h": 900
+        },
+        "counts": {
+          "section": 0,
+          "h1": 0,
+          "h2": 0,
+          "img": 1,
+          "canvas": 0,
+          "svg": 0,
+          "links": 0,
+          "buttons": 0
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    },
+    "mobile": {
+      "screenshot": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\_shots\\index_mobile.jpg",
+      "screenshotBytes": 32447,
+      "truncated": false,
+      "structure": {
+        "title": "綾Lune小剧场",
+        "firstH1": "",
+        "viewport": {
+          "w": 390,
+          "h": 844
+        },
+        "fullpage": {
+          "w": 390,
+          "h": 844
+        },
+        "counts": {
+          "section": 0,
+          "h1": 0,
+          "h2": 0,
+          "img": 1,
+          "canvas": 0,
+          "svg": 0,
+          "links": 0,
+          "buttons": 0
+        }
+      },
+      "consoleErrors": [],
+      "consoleWarnings": [],
+      "horizontalOverflow": [],
+      "resourceErrors": [],
+      "reportSource": "cdp"
+    }
+  },
+  "engine": "chrome_cli",
+  "chromiumExec": "C:\\Users\\34578/AppData/Local/ms-playwright\\chromium_headless_shell-1248\\chrome-headless-shell-win64\\chrome-headless-shell.exe",
+  "engineDegraded": true,
+  "engineDegradedReason": "playwright 未装",
+  "elapsedSec": 6.06,
+  "schemaVersion": 2,
+  "status": "pass",
+  "engineInfo": {
+    "name": "chrome_cli",
+    "degraded": true,
+    "degradedReasons": [
+      "playwright 未装"
+    ]
+  },
+  "input": {
+    "original": "index.html",
+    "resolvedPath": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\index.html",
+    "baseUrl": "file:///C:/Users/34578/Doubao/chats/2026-10-29/new-chat-1/%E7%B6%BELune%E5%B0%8F%E5%89%A7%E5%9C%BA/index.html",
+    "protocol": "file",
+    "cwd": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场",
+    "mediaMode": {
+      "reducedMotion": true
+    }
+  },
+  "artifacts": {
+    "screenshots": [
+      {
+        "viewport": "desktop",
+        "path": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\_shots\\index_desktop.jpg",
+        "size": 56295,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      },
+      {
+        "viewport": "mobile",
+        "path": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\_shots\\index_mobile.jpg",
+        "size": 32447,
+        "visualCoverage": {
+          "complete": true,
+          "reason": null
+        }
+      }
+    ]
+  },
+  "summary": {
+    "blocker": 0,
+    "error": 0,
+    "warning": 0,
+    "info": 0
+  },
+  "findings": [],
+  "prioritizedActions": [],
+  "reportPath": "C:\\Users\\34578\\Doubao\\chats\\2026-10-29\\new-chat-1\\綾Lune小剧场\\_shots\\report.json"
+}
